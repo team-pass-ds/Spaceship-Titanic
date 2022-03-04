@@ -1,20 +1,5 @@
-<style>
-.heading1 {
-    color: red;
-    font-weight:700;
-    font-size: 35px;
-}
-
-.header {
-  background-image: 'https://images.unsplash.com/photo-1534996858221-380b92700493?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHxr8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80'
-  width: 100%;
-  height: 200px;
-
-}
-</style>
-
-
 <img src="https://images.unsplash.com/photo-1534996858221-380b92700493?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHxr8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80" width="100%" height=200px>
+
 # Spaceship Titanic {#identifier .header}
 
 <big>Predict which passengers are transported to an alternate dimension</big>
