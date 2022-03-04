@@ -4,25 +4,20 @@
     font-weight:700;
     font-size: 35px;
 }
-.heading2 {
-    color: blue;
-    font-weight:700;
-    font-size: 30px;
-}
-.background {
-    background-image: "https://images.unsplash.com/photo-1534996858221-380b92700493?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80"
-}
-</style>   
 
-<div class="background">
+.header {
+  background-image: 'https://images.unsplash.com/photo-1534996858221-380b92700493?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHxr8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80'
+  width: 100%;
+  height: 200px;
 
-# Spaceship-Titanic
+}
+</style>
+
+
+<img src="https://images.unsplash.com/photo-1534996858221-380b92700493?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHxr8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80" width="100%" height=200px>
+# Spaceship Titanic {#identifier .header}
 
 <big>Predict which passengers are transported to an alternate dimension</big>
-
-</div>
-
-<!-- <img src="https://images.unsplash.com/photo-1534996858221-380b92700493?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80"> -->
 
 
 Welcome to the year 2912, where your data science skills are needed to solve a cosmic mystery. We've received a transmission from four lightyears away and things aren't looking good.
