@@ -53,7 +53,7 @@ Team    mergers are allowed and can be performed by the team leader. In order to
 The maximum team size is `10`.  
 
 
-#### Competition Timeline
+#### Competition Timeline 
 - Start Date: `Feb 23, 2022`
 - Merger Deadline: None
 - Entry Deadline: None
