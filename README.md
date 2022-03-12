@@ -1,7 +1,6 @@
 <img src="https://images.unsplash.com/photo-1534996858221-380b92700493?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHxr8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80" width="100%" height=200px>
 
-<!-- # [Spaceship Titanic](https://www.kaggle.com/c/spaceship-titanic/overview) -->
-<h1><a href="https://www.kaggle.com/c/spaceship-titanic/overview" target='_blank'>Spaceship Titanic</a></h1>
+# Spaceship Titanic
 
 <big>Predict which passengers are transported to an alternate dimension</big>
 
@@ -20,6 +19,8 @@ Help save them and change history!
 
 ### Acknowledgments
 Photos by [Joel Filipe](https://unsplash.com/@joelfilip?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), [Richard Gatley](https://unsplash.com/@uncle_rickie?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) and [ActionVance](https://unsplash.com/@actionvance?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash.
+
+---
 
 ### Data Description
 In this competition your task is to predict whether a passenger was transported to an alternate dimension during the Spaceship Titanic's collision with the spacetime anomaly. To help you make these predictions, you're given a set of personal records recovered from the ship's damaged computer system.
@@ -44,3 +45,6 @@ In this competition your task is to predict whether a passenger was transported 
 - `sample_submission.csv` A submission file in the correct format.
   - `PassengerId` - Id for each passenger in the test set.
   - `Transported` - The target. For each passenger, predict either `True` or `False`.
+
+
+**Competition link**: https://www.kaggle.com/c/spaceship-titanic/overview
