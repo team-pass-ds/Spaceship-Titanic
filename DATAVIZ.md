@@ -35,13 +35,11 @@ Following are some of the visualizations resulted from this project.
 
 <small><i>Image: homeplanet-cp.png</i></small>
 <br/>
-
 ### Title for `model-perf.png`
 ![model-perf](docs/images/model-perf.png)
 
-<small><i>Image: homeplanet-cp.png</i></small>
+<small><i>Image: model-perf.png</i></small>
 <br/>
-
 ### Title for `num-hist.png`
 ![num-hist](docs/images/num-hist.png)
 
