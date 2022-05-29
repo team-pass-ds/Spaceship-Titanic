@@ -1,6 +1,9 @@
 # Temporary ignores
 test-notebook.ipynb
 
+# Ignoring all csv files
+submission.csv
+
 # IDE
 .idea
 
