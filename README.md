@@ -48,4 +48,5 @@ In this competition your task is to predict whether a passenger was transported 
 
 
 **Competition link**: https://www.kaggle.com/c/spaceship-titanic/overview
+
 **Notebook link**: [st-competition-notebook.ipynb](https://github.com/team-pass-ds/Spaceship-Titanic/blob/master/notebooks/st-competition-notebook.ipynb)
